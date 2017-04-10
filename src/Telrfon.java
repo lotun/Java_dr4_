@@ -2,7 +2,6 @@
  * Created by Alex on 30.03.2017.
  */
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
