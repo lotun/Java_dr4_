@@ -26,7 +26,7 @@ public class Dr4Version2 {
 
 
 
-        //Генерация номеров
+        //Генерация номеров 
         for (int i = 0; i<sizeAbon; i++){
             k3 = 0 + (int) (Math.random() * 9);//cслучайный код
             n = 1000000 + (int) (Math.random() * 9000000);//случайный номер
